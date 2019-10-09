@@ -9,7 +9,9 @@ Apresentação realizado no dia 09/10/2019 referente a segunda edição da Impul
 
 Segundo o documento:
 ```
-ImplicitlyAnimatedWidgets (e suas subclasses) animam automaticamente as alterações em suas propriedades sempre que são alteradas. Para isso, eles criam e gerenciam seus próprios AnimationControllers internos para alimentar a animação.
+ImplicitlyAnimatedWidgets (e suas subclasses) animam automaticamente as alterações em suas 
+propriedades sempre que são alteradas. Para isso, eles criam e gerenciam seus próprios 
+AnimationControllers internos para alimentar a animação.
 ```
 <br />
 
@@ -40,5 +42,3 @@ Crie seu próprio ImplicitlyAnimatedWidget! :)
 Flávio Kreis  
 Email: [flaviokreis@gmail.com](flaviokreis@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/flaviokreis/](https://www.linkedin.com/in/flaviokreis/)
-
-
