@@ -2,6 +2,8 @@
 
 Apresentação realizado no dia 09/10/2019 referente a segunda edição da Impulso Talks, sobre Flutter, falando sobre Implicitly Animated Widgets.
 
+Apresentação: https://www.youtube.com/watch?v=3XSIU48-yUM&t
+
 ![Impulo Talks](images/impulso_talks.png)
 
 
